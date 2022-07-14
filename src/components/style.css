@@ -1,0 +1,90 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+body{
+    background-image: linear-gradient(90deg, #042514eb, #12dc3ad0);
+   
+   
+}
+
+ul li{
+    margin-top: 30px;
+    margin-bottom:40px ;
+}
+.card{
+ display: flex;
+ justify-content: center;
+    
+}
+
+.country-card{
+
+    background-color: rgb(81, 121, 42);
+    color: white;
+    font-size: 2rem;
+}
+
+
+.confirmed-card{
+
+    background-color: rgb(42, 22, 95);
+    color: white;
+    font-size: 2rem;
+}
+
+
+.deaths-card{
+
+    background-color: rgb(149, 28, 32);
+    color: white;
+    font-size: 2rem;
+}
+
+
+.recovered-card{
+
+    background-color: rgb(9, 90, 136);
+    color: white;
+    font-size: 2rem;
+}
+
+
+.active-card{
+
+    background-color: rgb(151, 16, 108);
+    color: white;
+    font-size: 2rem;
+}
+
+
+.update-card{
+
+    background-color: rgb(141, 155, 32);
+    color: white;
+    font-size: 1.5rem;
+}
+
+.span-text{
+
+
+    font-size: 0.7rem;
+   
+}
+
+.card-title{
+
+    padding-left: 30px;
+}
+
+.card-text{
+
+    padding-left: 30px;
+}
